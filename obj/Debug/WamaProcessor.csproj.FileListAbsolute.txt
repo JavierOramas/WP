@@ -1,0 +1,13 @@
+C:\Users\Javier\source\repos\WP\obj\Debug\WamaProcessor.csprojAssemblyReference.cache
+C:\Users\Javier\source\repos\WP\obj\Debug\WP.Properties.Resources.resources
+C:\Users\Javier\source\repos\WP\obj\Debug\WamaProcessor.Form1.resources
+C:\Users\Javier\source\repos\WP\obj\Debug\WamaProcessor.csproj.GenerateResource.cache
+C:\Users\Javier\source\repos\WP\obj\Debug\WamaProcessor.Fix.resources
+C:\Users\Javier\source\repos\WP\bin\Debug\WP.exe.config
+C:\Users\Javier\source\repos\WP\bin\Debug\WP.exe
+C:\Users\Javier\source\repos\WP\bin\Debug\WP.pdb
+C:\Users\Javier\source\repos\WP\bin\Debug\EPPlus.dll
+C:\Users\Javier\source\repos\WP\bin\Debug\EPPlus.xml
+C:\Users\Javier\source\repos\WP\obj\Debug\WamaProcessor.csproj.CopyComplete
+C:\Users\Javier\source\repos\WP\obj\Debug\WP.exe
+C:\Users\Javier\source\repos\WP\obj\Debug\WP.pdb

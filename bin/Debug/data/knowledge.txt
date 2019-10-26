@@ -1,0 +1,35 @@
+Hab |&| 1
+Check in |&| 2
+Check out |&| 3
+PLAN |&| 4
+Supl. MAP |&| 5
+Supl. AP |&| 6
+Supl. CP |&| 7
+Min. de noches |&| 8
+SGL |&| 9
+DBL |&| 10
+TPL |&| 11
+TLP |&| 11
+1er Niño |&| 12
+1er niño |&| 12
+2do Niño |&| 13
+2do niño |&| 13
+M�n. de noches |&| 8
+1er Ni�o |&| 12
+1er ni�o |&| 12
+2do Ni�o |&| 13
+2do ni�o |&| 13
+Mín. de noches |&| 8
+T. HABITACION |&| 1
+DESDE |&| 2
+HASTA |&| 3
+Supl. Cena |&| 5
+TRI |&| 10
+2 do Niño |&| 12
+Supl. Cenas |&| 5
+Supl. Cena AP |&| 6
+Supl. Cena (AP) |&| 6
+Mín.de noches |&| 8
+Suplem de Cena |&| 5
+SG |&| 9
+2do niño  |&| 13
