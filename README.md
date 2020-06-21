@@ -1,1 +1,1 @@
-Run WamaProcessor App located at debug/bin
+Run WamaProcessor App located at bin/debug
